@@ -8,8 +8,7 @@
 4. Pooja Dawada
 
 ### Table of contents
-- https://github.com/anshikaahuja/Edmunds-Text-Analytics/blob/master/README.md#introduction
-- Introduction
+- [Introduction](https://github.com/anshikaahuja/Edmunds-Text-Analytics/blob/master/README.md#introduction)
 - Technologies
 - Approach
 - Analysis and Insights
