@@ -8,12 +8,12 @@
 4. Pooja Dawada
 
 ### Table of contents
-Introduction
-Technologies
-Approach
-Insights
+- Introduction
+- Technologies
+- Approach
+- Analysis and Insights
 
 ### Introduction
 ### Technologies
 ### Approach
-### Insights
+### Analysis and Insights
