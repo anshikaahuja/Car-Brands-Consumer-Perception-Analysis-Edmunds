@@ -9,7 +9,7 @@
 
 ### Table of contents
 - [Introduction](https://github.com/anshikaahuja/Edmunds-Text-Analytics/blob/master/README.md#introduction)
-- Technologies
+- [Technologies](https://github.com/anshikaahuja/Edmunds-Text-Analytics/blob/master/README.md#technologies)
 - Approach
 - Analysis and Insights
 
