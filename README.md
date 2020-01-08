@@ -22,12 +22,12 @@ We scraped around 4000-5000 posts about midsize sedans from [Edmunds](https://fo
 ## Approach
 In this project the following steps were taken:
 1. Write a scraper using Selenium on python to fetch posts from Edmunds.com
-2. Identify the top 10 brands being discussed using frequency counts. Here we replaced car model names with their brand names using the mapping file `models.csv'.
-3. Calculate lift scores between brands to identify association between the brands . Plot a MDS plot to visualize these relationships.
+2. Identify the top 10 brands being discussed using frequency counts. Here we replaced car model names with their brand names using the mapping file `models.csv`.
+3. Calculate lift scores between brands to identify association between the brands . Plot a multi-dimensional scaling (MDS) map to visualize these relationships.
 4. Offer some insights to brand managers for brands identified in the above step.
-5. Identify the attributes which define a car according to these posts. For Ex: BMW markets itsels as a high performance machine... find out if that's indeed true. Do people really associate words like performance and style with BMW? or is it something else ? Do this for all the brands.
-6. Provide suggestions to brand managers in the identified brands based on insights.
-7. Identify brands which people aspire to purchase from the discussions in the post.
-8. Provide suggestions to advertising managers in the identified brands based on insights.
+5. Identify the top 5 most frequently mentioned attributes which people associate with the top brands.
+6. Provide suggestions to brand managers of the identified brands based on the above step.
+7. Identify the most aspirational brand which people actually want to buy or own from the discussions in the post. What are the business implications of this brand.
 
 ## Analysis and Insights
+
