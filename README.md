@@ -27,7 +27,25 @@ In this project the following steps were taken:
 4. Offer some insights to brand managers for brands identified in the above step.
 5. Identify the top 5 most frequently mentioned attributes which people associate with the top brands.
 6. Provide suggestions to brand managers of the identified brands based on the above step.
-7. Identify the most aspirational brand which people actually want to buy or own from the discussions in the post. What are the business implications of this brand.
+7. Identify the most aspirational brand which people actually want to buy or own from the discussions in the post. What are the business implications of this brand?
 
 ## Analysis and Insights
+1. Top 10 brands
+
+Brand | Frequency
+------------ | -------------
+honda | 2237
+ford | 1409
+toyota | 1103
+hyundai | 659
+mazda | 606
+nissan | 601
+chevrolet | 316
+saturn | 301
+chrysler | 266
+subaru | 166
+
+
+
+MDS Map
 
