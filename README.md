@@ -1,11 +1,5 @@
 # Car-Brands-Consumer-Perception-Analysis-Edmunds
- This project is a part of the coursework for Text Analytics. Here we scrapped Edmunds.com and implemented various text mining concepts to understand the consumer opinion on car brands and derive insights.
-
-## Team Members:
-- Anshika Ahuja
-- Mohini Agrawal
-- Sachin Balakrishna
-- Pooja Dawada
+ This project is a part of the coursework for Text Analytics at the University of Texas at Austin. Here we scrapped Edmunds.com and implemented various text mining concepts to understand the consumer opinion on car brands and derive insights.
 
 ## Table of contents
 - [Introduction](https://github.com/anshikaahuja/Car-Brands-Consumer-Perception-Analysis-Edmunds/blob/master/README.md#introduction)
