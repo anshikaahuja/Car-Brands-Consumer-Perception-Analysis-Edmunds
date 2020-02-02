@@ -54,7 +54,7 @@ subaru | 166
 ![Alt Text](Lift Matrix for brands.PNG)
 
 **3. MDS Map** <br />
-![Alt Text](MDS Map.PNG)
+![Alt Text](MDS%20Map.png)
 
 **4. Advise to managers**
    
