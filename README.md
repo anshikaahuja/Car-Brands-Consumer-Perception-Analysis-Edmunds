@@ -7,6 +7,7 @@ This project is a part of the coursework for Text Analytics at the University of
 - [Business Problem](https://github.com/anshikaahuja/Car-Brands-Consumer-Perception-Analysis-Edmunds/blob/master/README.md#business-problem)
 - [Data Used](https://github.com/anshikaahuja/Car-Brands-Consumer-Perception-Analysis-Edmunds/blob/master/README.md#data-used)
 - [Approach](https://github.com/anshikaahuja/Car-Brands-Consumer-Perception-Analysis-Edmunds/blob/master/README.md#approach)
+- [Algorithms/Libraries Used](https://github.com/anshikaahuja/Car-Brands-Consumer-Perception-Analysis-Edmunds/blob/master/README.md#algorithmslibraries-used)
 - [Analysis and Insights](https://github.com/anshikaahuja/Car-Brands-Consumer-Perception-Analysis-Edmunds/blob/master/README.md#analysis-and-insights)
 
 ## Business Problem
@@ -47,9 +48,15 @@ saturn | 301
 chrysler | 266
 subaru | 166
 
-**2. MDS Map**
+![Alt Text](Frequency.png)
 
-**3. Advise to managers**
+**2. Lift Matrix for brands**
+![Alt Text](Lift Matrix for brands.png)
+
+**3. MDS Map**
+![Alt Text](MDS Map.png)
+
+**4. Advise to managers**
    
 Brand to Brand Lift values -
 The lift values of Chevrolet and Saturn are very high. So probably they are each other's biggest competitors and have very similar      cars in the midsize sedans category. Both these companies can leverage this and being mentioned with the other brand would be helpful    in promoting the brand.
@@ -59,7 +66,7 @@ What we could find from the analysis is that Asian brands dominate the midsize S
 
 Our recommendation to FORD Management: We are not finding the above trend carried over to the aspiration score. FORD is being talked    about a lot, so it is worth investigating the associated customer sentiments and preferences. With proper marketing and branding of      DISTINCT features, FORD can challenge for the top spot.
 
-**4. Top attributes**
+**5. Top attributes**
 
 Attribute | Frequency
 ------------ | -------------
@@ -74,12 +81,15 @@ Safety | 355
 Efficiency | 159
 Pickup | 34
 
-**5. Advise to managers**
+**6. Lift Matrix for attributes**
+![Alt Text](Lift Matrix for attributes.png)
+
+**7. Advise to managers**
   
 Brand to Attribute lift -
 Mazda and Chevrolet have an exceptionally good lift with pickup, which could also mean that people are mentioning about pickup trucks   of these brands in the discussion about midsize sedans. This could mean people talk about pickup trucks of these brands while talking   about sedans. This is a business opportunity for Mazda and Chevrolet to expand their pickup truck business by associating with sedans. 
 
-**6. Aspirational brand**
+**8. Aspirational brand**
 
 As we can observe from the lift ratios between brands and aspirations, Mazda seems to be the most aspirational brand and people are      showing interest in buying Mazda cars in the future. Our advice to the managers would be to prepare for the forecasted demand and        manufacture accordingly. This should lead to higher revenues and profits for Mazda. The product managers of Mazda can also try to        check what attributes of the cars are making people want to buy them and the advertising managers can advertise more on those            attributes to acquire more customers.
 
