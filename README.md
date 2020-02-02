@@ -48,12 +48,12 @@ saturn | 301
 chrysler | 266
 subaru | 166
 
-![Alt Text](Frequency.png)
+![Alt Text](Frequency.PNG)
 
-**2. Lift Matrix for brands**
+**2. Lift Matrix for brands** <br />
 ![Alt Text](Lift Matrix for brands.png)
 
-**3. MDS Map**
+**3. MDS Map** <br />
 ![Alt Text](MDS Map.png)
 
 **4. Advise to managers**
@@ -81,7 +81,7 @@ Safety | 355
 Efficiency | 159
 Pickup | 34
 
-**6. Lift Matrix for attributes**
+**6. Lift Matrix for attributes** <br />
 ![Alt Text](Lift Matrix for attributes.png)
 
 **7. Advise to managers**
