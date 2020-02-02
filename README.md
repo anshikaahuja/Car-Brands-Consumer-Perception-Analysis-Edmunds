@@ -11,7 +11,9 @@ This project is a part of the coursework for Text Analytics at the University of
 - [Analysis and Insights](https://github.com/anshikaahuja/Car-Brands-Consumer-Perception-Analysis-Edmunds/blob/master/README.md#analysis-and-insights)
 
 ## Business Problem
-Edmunds.com is an online resource for automative information. People post reviews about various cars and use the wesbite for awareness building and research. As an analytics consultant to a (i) brand manager, (ii) product manager and (iii) advertising manager, our job was to give advice/insights to these individuals based on the analysis of social media conversations on the website
+Edmunds.com is an online resource for automative information. People post reviews about various cars and use the wesbite for awareness building and research. As an analytics consultant to a (i) brand manager, (ii) product manager and (iii) advertising manager, our job was to give advice/insights to these individuals based on the analysis of social media conversations on the website. <br />
+
+[Analysis.ipnyb](https://github.com/anshikaahuja/Car-Brands-Consumer-Perception-Analysis-Edmunds/blob/master/Analysis.ipynb) file has the code for the analysis
 
 ## Data Used
 We scraped around 4000-5000 posts about midsize sedans from [Edmunds](https://forums.edmunds.com/discussion/7526/general/x/midsize-sedans-2-0/p%22) using Selenium. The scraped data can be found in `data.csv`
@@ -51,7 +53,7 @@ subaru | 166
 ![Alt Text](Frequency.PNG)
 
 **2. Lift Matrix for brands** <br />
-![Alt Text](Lift Matrix for brands.PNG)
+![Alt Text](Lift%20Matrix%20for%20brands.png)
 
 **3. MDS Map** <br />
 ![Alt Text](MDS%20Map.png)
@@ -82,7 +84,7 @@ Efficiency | 159
 Pickup | 34
 
 **6. Lift Matrix for attributes** <br />
-![Alt Text](Lift Matrix for attributes.PNG)
+![Alt Text](Lift%20Matrix%20for%20attributes.png)
 
 **7. Advise to managers**
   
