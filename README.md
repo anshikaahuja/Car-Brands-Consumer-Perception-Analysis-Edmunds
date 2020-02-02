@@ -51,10 +51,10 @@ subaru | 166
 ![Alt Text](Frequency.PNG)
 
 **2. Lift Matrix for brands** <br />
-![Alt Text](Lift Matrix for brands.png)
+![Alt Text](Lift Matrix for brands.PNG)
 
 **3. MDS Map** <br />
-![Alt Text](MDS Map.png)
+![Alt Text](MDS Map.PNG)
 
 **4. Advise to managers**
    
@@ -82,7 +82,7 @@ Efficiency | 159
 Pickup | 34
 
 **6. Lift Matrix for attributes** <br />
-![Alt Text](Lift Matrix for attributes.png)
+![Alt Text](Lift Matrix for attributes.PNG)
 
 **7. Advise to managers**
   
