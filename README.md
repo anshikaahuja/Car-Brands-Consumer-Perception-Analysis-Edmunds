@@ -1,7 +1,7 @@
 # Car-Brands-Consumer-Perception-Analysis-Edmunds
  ![](https://manofmany.com/wp-content/uploads/2019/05/8-Top-Australian-Car-Brands-to-Rev-You-Up-feature.jpg)
  
-This project is a part of the coursework for Text Analytics at the University of Texas at Austin. Scraped Edmunds.com and implemented various text mining concepts to understand the consumer opinion on car brands and derive insights.
+Scraped Edmunds.com and implemented various text mining concepts to understand the consumer opinion on car brands and derive insights.
 
 ## Table of contents
 - [Business Problem](https://github.com/anshikaahuja/Car-Brands-Consumer-Perception-Analysis-Edmunds/blob/master/README.md#business-problem)
