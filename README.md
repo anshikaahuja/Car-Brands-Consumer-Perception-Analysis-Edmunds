@@ -1,7 +1,7 @@
 # Car-Brands-Consumer-Perception-Analysis-Edmunds
  ![](https://manofmany.com/wp-content/uploads/2019/05/8-Top-Australian-Car-Brands-to-Rev-You-Up-feature.jpg)
  
-This project is a part of the coursework for Text Analytics at the University of Texas at Austin. Here we scrapped Edmunds.com and implemented various text mining concepts to understand the consumer opinion on car brands and derive insights.
+This project is a part of the coursework for Text Analytics at the University of Texas at Austin. Scraped Edmunds.com and implemented various text mining concepts to understand the consumer opinion on car brands and derive insights.
 
 ## Table of contents
 - [Business Problem](https://github.com/anshikaahuja/Car-Brands-Consumer-Perception-Analysis-Edmunds/blob/master/README.md#business-problem)
@@ -16,7 +16,7 @@ Edmunds.com is an online resource for automative information. People post review
 [Analysis.ipnyb](https://github.com/anshikaahuja/Car-Brands-Consumer-Perception-Analysis-Edmunds/blob/master/Analysis.ipynb) file has the code for the analysis
 
 ## Data Used
-We scraped around 4000-5000 posts about midsize sedans from [Edmunds](https://forums.edmunds.com/discussion/7526/general/x/midsize-sedans-2-0/p%22) using Selenium. The scraped data can be found in `data.csv`
+Scraped around 4000-5000 posts about midsize sedans from [Edmunds](https://forums.edmunds.com/discussion/7526/general/x/midsize-sedans-2-0/p%22) using Selenium. The scraped data can be found in `data.csv`
 
 ## Approach
 In this project the following steps were taken:
